@@ -2,7 +2,7 @@
 
 This simple nodejs app starts on port 3000 and logs 1 line into elastic search which is running in a minikube cluster. Elastic endpoint configured in Pino is the es service name in Minikube.
 
-##### to prepare the app for startup, installing all the dependencies
+##### to prepare the app for startup, install all the dependencies
 
 npm install - change in the text
 
